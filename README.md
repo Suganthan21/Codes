@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MC-IsingModel
 Contains Monte Carlo code for Ising model in 2d. Relevant plots including measuring fluctutations, correlations and finite size scaling analysis are shown. Primary Reference : Newman, Barkema
 
